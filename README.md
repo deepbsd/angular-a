@@ -1,12 +1,19 @@
-# Angular A
+# Skeleton
 
-Simple boilerplate in Angular 1.
+Simple boilerplate Express and Gulp.
 
 ## Features
 
-* Angular 1
+* Mocha (testing)
+* Chai (testing)
+* Mongoose (for Mongo DB connectivity)
 * Express
 * Sass
+* Gulp
+* Passport (user authentication)
+* bcrypt (for encrypting user credentials)
+* Faker (for generating faked data for tests)
+* Morgan (for logging)
 
 ## App Development
 
